@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sohanbodana/JobSearch.git/static/css/main.9281e4c6.css",
+    "main.js": "/sohanbodana/JobSearch.git/static/js/main.abb9f9f6.js",
+    "static/js/787.5bc9c49d.chunk.js": "/sohanbodana/JobSearch.git/static/js/787.5bc9c49d.chunk.js",
+    "static/media/bg2.jpg": "/sohanbodana/JobSearch.git/static/media/bg2.f42ecb4bc8e4c4ed24be.jpg",
+    "static/media/slider1.jpg": "/sohanbodana/JobSearch.git/static/media/slider1.ebe632250c1159263c1f.jpg",
+    "static/media/cool-background (2).png": "/sohanbodana/JobSearch.git/static/media/cool-background (2).769f4a9c4af371ae6a71.png",
+    "static/media/slider2.jpg": "/sohanbodana/JobSearch.git/static/media/slider2.85105e95164bf31afe95.jpg",
+    "static/media/slider3.jpg": "/sohanbodana/JobSearch.git/static/media/slider3.fae1c2f42a1cec77bdb9.jpg",
+    "static/media/slick.svg": "/sohanbodana/JobSearch.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sohanbodana/JobSearch.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sohanbodana/JobSearch.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/sohanbodana/JobSearch.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/sohanbodana/JobSearch.git/index.html",
+    "main.9281e4c6.css.map": "/sohanbodana/JobSearch.git/static/css/main.9281e4c6.css.map",
+    "main.abb9f9f6.js.map": "/sohanbodana/JobSearch.git/static/js/main.abb9f9f6.js.map",
+    "787.5bc9c49d.chunk.js.map": "/sohanbodana/JobSearch.git/static/js/787.5bc9c49d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9281e4c6.css",
+    "static/js/main.abb9f9f6.js"
+  ]
+}
